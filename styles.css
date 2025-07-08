@@ -1,0 +1,369 @@
+.Banner img
+{
+    width: 100%;
+    height:30%;
+    align-self:center;
+    padding:0;
+    margin:0;  
+}
+.navbar
+{
+    text-align:center;
+    margin:10px 0px;
+}
+.navbar a
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:aquamarine;   
+}
+.college_img img
+{
+    width:50%;
+    height:40%;
+    align-self:left;
+    border-radius:10%;
+    
+
+}
+.college_img p
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    margin-top:100px;
+    font-size: 1.5rem;
+    
+}
+.college_img
+{
+    display:flex;
+    gap:10px;
+}
+.dept h2
+{
+    font-family:'Montserrat';
+    font-size: 30px;
+    text-align:center;
+}
+
+.dept h1{
+    font-family:'Lilita One';
+    font-size:100px;
+    text-align:center;
+}
+.mrq
+{
+    font-style:italic;
+    color:red;
+    font-size:25px;
+
+}
+
+.HOD
+{
+    display:flex;
+    gap:20px;
+
+
+}
+.HOD img
+{
+    Width:20%;
+    height:20%;
+    margin-left:20px;
+}
+
+.HOD p
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:30px;
+    margin-left:10px;
+    margin-top:95px;
+}
+.In
+{
+    background-color: goldenrod;
+    margin:30px;
+}
+.In p
+{
+    font-family: Montserrat;
+    font-size:25px;
+    text-align:center;
+}
+.mar-images img
+{
+    width:450px;
+    height:350px;
+}
+.mar-images h3{
+    font-size: 35px;
+    text-align: center;
+    font-family: Montserrat;
+}
+.mar-images img:hover
+{
+   
+  transform: scale(1.5);
+  transition: transform 0.3s ease;
+
+}
+.Trailer video {
+    margin-left:200px;
+  }
+.Trailer h2
+{
+    font-family: 'Lilita One';
+    font-size:40px;
+    text-align: center;
+}
+.register p
+{
+    font-family: Montserrat;
+    font-size:25px;
+    text-align: left;
+    color:magenta;
+}
+.register button
+{
+    margin-top: 1.5rem;
+      width: 100%;
+      background: #28a745;
+      color: white;
+      border: none;
+      padding: 10px;
+      border-radius: 6px;
+      font-size: 1rem;
+      cursor: pointer;
+}
+.sponsor p
+{
+    font-family: Montserrat;
+    font-size:25px;
+    text-align: left;
+    color:magenta;
+}
+.sponsor button
+{
+    margin-top: 1.5rem;
+      width: 100%;
+      background:goldenrod;
+      color: white;
+      border: none;
+      padding: 10px;
+      border-radius: 6px;
+      font-size: 1rem;
+      cursor: pointer;
+}
+.Fac1
+{
+    display:block;
+
+
+}
+.Fac1 img
+{ 
+   width:150px;
+   height:150px;
+   border-radius:360px;
+}
+.Fac1 p
+{
+  font-size: 15px;
+  font-family: Montserrat;
+}
+.Fac2
+{
+    display:block;
+    flex-wrap: justify;
+
+
+}
+.Fac2 img
+{ 
+   width:150px;
+   height:150px;
+   border-radius:360px;
+}
+.Fac2 p
+{
+  font-size: 15px;
+  font-family: Montserrat;
+}
+
+.contact
+{
+    display:flex;
+    flex-wrap:justify;
+    gap:40px;
+    margin-left:500px;
+    
+}
+.hr
+{
+    height:200px;
+
+}
+.Conve p
+{
+    font-size: 30px;
+    font-family: Montserrat;
+    text-align: center;
+    margin-bottom:20px;
+}
+.events h2
+{
+    font-size: 80px;
+    font-family: 'Lilitha One';
+    text-align:center;
+}
+.TE p
+{
+    font-size: 60px;
+    font-family: 'Montserrat';
+    text-align:left;
+    margin:10px;
+}
+.Ml{
+    display:flex;
+    box-shadow: 0px 2px 20px rgba(124, 238, 9, 0.919);
+    border-radius:10px;
+}
+.Ml img
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.Ml p
+{
+    font-size: 30px;
+    font-family:Montserrat;
+    margin-left: 200px;
+    margin-top:100px;
+}
+.CO{
+    display:flex;
+    box-shadow: 0px 2px 20px rgba(9, 226, 238, 0.919);
+    border-radius:10px;
+}
+.CO img
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.CO p
+{
+    font-size: 30px;
+    font-family:Montserrat;
+    margin-left: 200px;
+    margin-top:100px;
+}
+.Pe{
+    display:flex;
+    box-shadow: 0px 2px 20px rgba(226, 9, 238, 0.989);
+    border-radius:10px;
+}
+.Pe img
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.Pe p
+{
+    font-size: 30px;
+    font-family:Montserrat;
+    margin-left: 200px;
+    margin-top:100px;
+}
+.NTE p
+{
+    font-size: 60px;
+    font-family: 'Montserrat';
+    text-align:left;
+    margin:10px;
+}
+.MM{
+    display:flex;
+    box-shadow: 0px 2px 20px rgba(124, 238, 9, 0.919);
+    border-radius:10px;
+}
+.MM img
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.MM p
+{
+    font-size: 30px;
+    font-family:Montserrat;
+    margin-left: 200px;
+    margin-top:100px;
+}
+.PP{
+    display:flex;
+    box-shadow: 0px 2px 20px rgba(9, 226, 238, 0.919);
+    border-radius:10px;
+}
+.PP img
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.PP p
+{
+    font-size: 30px;
+    font-family:Montserrat;
+    margin-left: 200px;
+    margin-top:100px;
+}
+.inven{
+    display:flex;
+    box-shadow: 0px 2px 20px rgba(226, 9, 238, 0.989);
+    border-radius:10px;
+}
+.inven img
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.inven p
+{
+    font-size: 30px;
+    font-family:Montserrat;
+    margin-left: 200px;
+    margin-top:100px;
+}
+.fest-footer {
+  margin-top: 3rem;
+  padding: 2rem;
+  background-color: #292c33e6;
+  color: #f8f8f8;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.fest-footer a {
+  color: #4fc3f7;
+  text-decoration: none;
+}
+
+.fest-footer a:hover {
+  text-decoration: underline;
+}
+body {
+  background-image: url("Picture1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+}
+
+
+
